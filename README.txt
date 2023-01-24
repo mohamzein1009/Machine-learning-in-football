@@ -1,0 +1,1 @@
+This project's objective is to predict the outcome of football matches using machine learning. Some of the notebooks have a lengthy runtime especially the modelling notebook, so the models where stored locally to avoid recalculating them
